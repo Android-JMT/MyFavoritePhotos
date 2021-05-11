@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My favorite photos</string>
+    <string name="add_image">add image</string>
+    <string name="image">Image</string>
+    <string name="title">TextView</string>
+    <string name="imageTitle">TextView</string>
+    <string name="imageDescription">image</string>
+    <string name="select_image">Select image</string>
+    <string name="selected_image">selected image</string>
+    <string name="add_images">Add image</string>
+</resources>
